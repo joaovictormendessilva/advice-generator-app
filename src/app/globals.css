@@ -3,3 +3,11 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+:root {
+  --darkBlue: hsl(218, 23%, 16%);
+  --darkGrayishBlue: hsl(217, 19%, 24%);
+
+  --lightCyan: hsl(193, 38%, 86%);
+  --neonGreen: hsl(150, 100%, 66%);
+}

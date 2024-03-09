@@ -1,0 +1,27 @@
+.container {
+  max-width: 530px;
+  padding: 40px;
+  background-color: var(--darkGrayishBlue);
+  text-align: center;
+  position: relative;
+
+  border-radius: 8px;
+}
+
+.title {
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: var(--neonGreen);
+  word-spacing: 2px;
+  letter-spacing: 3px;
+}
+
+.message {
+  font-size: 28px;
+  color: var(--lightCyan);
+  margin-bottom: 20px;
+}
+
+.divider {
+  width: 100%;
+}
