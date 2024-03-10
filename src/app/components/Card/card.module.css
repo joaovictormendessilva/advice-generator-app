@@ -1,9 +1,9 @@
 .container {
   max-width: 530px;
+  width: 100%;
   padding: 40px;
   background-color: var(--darkGrayishBlue);
   text-align: center;
-  position: relative;
 
   border-radius: 8px;
 }

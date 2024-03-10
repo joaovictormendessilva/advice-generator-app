@@ -3,9 +3,9 @@
 
   background-color: var(--neonGreen);
   padding: 12px;
+  margin-top: -150px;
   border: none;
   border-radius: 999px;
-  margin-top: -20px;
 
   z-index: 9000;
 
