@@ -18,7 +18,5 @@ export function useGetMessages() {
       .catch((error) => console.log(error));
   }, [reSearch]);
 
-  console.log(reSearch);
-
   return { data, loading, setReSearch };
 }
